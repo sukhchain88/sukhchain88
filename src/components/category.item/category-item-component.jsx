@@ -1,8 +1,5 @@
 import './category-item-styles.css'
 
-
-
-
 const CategoryItem = ({ category }) => {
     const { imageUrl, title } = category
     return (
